@@ -1,3 +1,5 @@
+Fisrt machinelearning - kaggle : titanic
+
 Dataset Description
 Overview
 The data has been split into two groups:

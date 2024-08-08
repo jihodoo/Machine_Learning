@@ -1,5 +1,7 @@
 Fisrt machinelearning - kaggle : titanic
 
+*Details for competition*
+
 Dataset Description
 Overview
 The data has been split into two groups:
